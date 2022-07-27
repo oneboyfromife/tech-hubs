@@ -425,6 +425,12 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Elerinmosa Hub](http://www.elerinmosaresource.com.ng/)
   33, Ire-akari Area, Erin, Osun State
+  
+- [Opolo Hub](https://opolo.global/)
+  Opolo Innovation Hub, Osun State University.
+  
+- [OIC Hub](https://www.oichub.org/)
+  32 Balogun House, Sabo Junction, Osogbo, Osun State.
 
 ## Oyo
 
